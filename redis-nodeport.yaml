@@ -10,4 +10,4 @@ spec:
   ports:
   - port: 6379
     targetPort: 6379
-    nodePort: 30443
+    nodePort: 30444
